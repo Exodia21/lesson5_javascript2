@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 2, 2018
 
 ### Student Name:  
-(First and Last Name)
+Rickey Riddley
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Input the code for married filing jointly, married filing separately, & head of household in order to complete the tax bracket calculator for those filing status. Also input code to clear out input of taxable income and tax & tax bracket results.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://exodia21.github.io/lesson5_javascript2/.
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Becoming familiar with certain statemetns such as if statements. if/else statements, and switch statements.
+2. Understanding about arrays and how value has set number that starts with 0 and not 1.
+3. Learning about repeated code with loop statements and that their are three different types of loop statements (while, do/while, and for).
 
